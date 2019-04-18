@@ -1,0 +1,5 @@
+.env
+public/css
+public/js
+storage/cache
+vendor

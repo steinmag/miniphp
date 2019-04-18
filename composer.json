@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "jenssegers/blade": "^1.1",
+        "vlucas/phpdotenv": "^2.4",
+        "illuminate/database": "^5.6"
+    }
+}
